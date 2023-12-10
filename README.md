@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vitormellogon
+- 👀 I’m interested in how we can ipact the world through code
+- 🌱 I’m currently learning Information Management, Data Science and Web Development
+- 💞️ I’m looking to collaborate on solutions for socioeconomic problems
+- 📫 How to reach me: www.linkedin.com/in/vitormellogon
