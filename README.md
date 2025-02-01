@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @vitormellogon
-- 👀 I’m interested in how we can impact the world through code
-- 🌱 I’m currently learning Information Management, Data Science and Web Development
-- 💞️ I’m looking to collaborate on solutions for socioeconomic problems
+- 👀 I’m interested in having an impact in the world through Machine Learning and Deep Learning
 - 📫 How to reach me: www.linkedin.com/in/vitormellogon
